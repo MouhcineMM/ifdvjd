@@ -234,7 +234,6 @@ const Stats = () => {
   );
 };
 
-
 // Partenaires
 const Partners = () => {
   const logos = ["loreal.png", "kerastase.png", "ghd.png"];
