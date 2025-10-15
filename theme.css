@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Définition du thème personnalisé */
+@theme {
+  --color-beige: #F7F5F2;
+  --color-accent: #BFA77F;
+  --color-text: #1F1F1F;
+}

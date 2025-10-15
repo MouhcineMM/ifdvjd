@@ -1,0 +1,15 @@
+@import "../theme.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles globaux */
+body {
+  @apply bg-beige text-text antialiased;
+}
+
+/* Carte avec ombre douce et angles arrondis */
+.card {
+  @apply bg-white rounded-xl shadow-md;
+}
